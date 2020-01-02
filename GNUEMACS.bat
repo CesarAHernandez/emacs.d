@@ -1,0 +1,1 @@
+"C:\ProgramData\chocolatey\bin\emacsclientw.exe" -n --alternate-editor="C:\ProgramData\chocolatey\bin\runemacs.exe" -c
